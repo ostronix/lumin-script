@@ -40,5 +40,5 @@ false
 
 - [Компилятор в браузере](https://ostronix.github.io/lumin-script)
 - [NPM.js](https://npmjs.com/package/lumin-script)
-- [Documentation](https://npmjs.com/package/lumin)
+- [Documentation](https://ostronix.github.io/lumin)
 - [Синтаксис](synt.txt)
