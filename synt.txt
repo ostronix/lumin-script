@@ -1,1 +1,51 @@
-soon
+// num (x) - Number (x)
+// str (x) - String (x)
+// bool (x) - Boolean (x)
+// obj (x) - Object (x)
+// cls X - class X
+// constr () - constructor ()
+// else print (x) - else { console.log (x) }
+// local ('module') -- require ('module')
+// def X (x) {\n} -- function X (x) {}
+// as def -- async function
+// >>> -- =>
+
+let x = num (100)
+
+def name (s) {
+ return bool (0)
+}
+
+def object (value) {
+    return obj (value)
+}
+
+def json () {
+    return {id:0}
+}
+
+cls Name {
+   constr () {
+    this.warn = false
+   }
+}
+
+def is () {
+if x == 100 {
+    return print true
+} else return false
+}
+
+as def names (x) {
+    return x
+}
+
+let strel = (s) >>> s * 2
+
+print name ("TEST")
+print object({id:1})
+print new Name ()
+print json ()
+print is ()
+print names ('Kevin')
+print strel (500)
